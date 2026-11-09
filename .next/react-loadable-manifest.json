@@ -1,0 +1,20 @@
+{
+  "components/distribution-chart.tsx -> echarts-for-react": {
+    "id": "components/distribution-chart.tsx -> echarts-for-react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_echarts-for-react_esm_index_js.js"
+    ]
+  },
+  "components/map-panel.tsx -> @/components/map-canvas": {
+    "id": "components/map-panel.tsx -> @/components/map-canvas",
+    "files": [
+      "static/chunks/_app-pages-browser_components_map-canvas_tsx.js"
+    ]
+  },
+  "components/trend-chart.tsx -> echarts-for-react": {
+    "id": "components/trend-chart.tsx -> echarts-for-react",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_echarts-for-react_esm_index_js.js"
+    ]
+  }
+}
